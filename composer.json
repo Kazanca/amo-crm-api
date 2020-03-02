@@ -1,0 +1,17 @@
+{
+	"name": "kazanca/amo-crm-api",
+	"type": "library",
+	"description": "Simple class for integration with amoCRM using php",
+	"keywords": ["amoCRM","simple api","amoCRM api integration"],
+	"homepage": "",
+	"licenese": "MIT",
+	"authors": [
+		{
+			"name": "kazanca",
+			"email": "ruzal.gabdrahmanoff@yandex.ru",
+			"homepage": "",
+			"role": "Developer"
+		}
+	],
+
+}
